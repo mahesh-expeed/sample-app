@@ -1,2 +1,3 @@
-# sample-app
-Sample Angular application repository
+# Sample Angular Application
+
+This repository contains a sample Angular application.
